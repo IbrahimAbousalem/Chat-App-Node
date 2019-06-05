@@ -12,6 +12,4 @@
 * queryString.
 * heroku.
 
-## Getting Started
-
 ### Visit the [Chat app](https://ia-chat-app.herokuapp.com/)
